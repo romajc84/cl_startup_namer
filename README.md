@@ -4,6 +4,8 @@ A new Flutter project.
 
 - [CodeLabs: Write your first Flutter app, p.1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#2)
 
+- [CodeLabs: Write your first Flutter app, p.2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#3)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
